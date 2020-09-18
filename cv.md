@@ -1,11 +1,12 @@
-## **Zlat Kizin**
+# **Zlat Kizin**
 **e-mail: cerber_z21@mail.ru**   
 **Phone number: +375257818130**   
 
 ### **About myself**
->Able to adapt to any situation in a short time, not to lose rational thinking in stressful situations, serious and attentive to everything: from learning to work. Open minded, positive and easy communicative. 
+>Able to adapt to any situation in a short time, not to lose rational thinking in stressful situations, serious and attentive to everything: from learning to work. Open minded, positive and easy communicative.  
 
-### **My skills:**  
+
+## **My skills:**  
 * **JavaScript**
 * **HTML5**
 * **CSS3**
@@ -14,4 +15,19 @@
 * **jQuery**
 * **npm**
 * **Git**
-* **OOP**
+* **OOP**  
+>
+## **My skills:**
+* #### https://github.com/zlat-k/sababa ####  
+
+## **Experience**
+* Inetex LTD (Israel, Rehovot)
+
+## **Education:**
+* ### **BSU**   
+SISTM  (2018)
+* ### **Tel-Ran**
+Web Development, Frontend developer  (2020)  
+
+### Language ###  
+English: Pre-Intermediate (A2)
