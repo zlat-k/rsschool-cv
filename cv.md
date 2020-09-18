@@ -17,7 +17,7 @@
 * **Git**
 * **OOP**  
 >
-## **My skills:**
+## **My Projects:**
 * #### https://github.com/zlat-k/sababa ####  
 
 ## **Experience**
