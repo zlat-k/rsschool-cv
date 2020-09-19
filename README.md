@@ -1,2 +1,2 @@
 # rsschool-cv
-https://zlat-k.github.io/rsschool-cv/index.html
+https://zlat-k.github.io/rsschool-cv/ndex.html
