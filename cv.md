@@ -10,7 +10,7 @@
 * **JavaScript**
 * **HTML5**
 * **CSS3**
-* **Butstrap**
+* **Bootstrap**
 * **React**
 * **jQuery**
 * **npm**
