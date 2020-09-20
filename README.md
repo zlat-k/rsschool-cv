@@ -1,2 +1,2 @@
 # rsschool-cv
-https://zlat-k.github.io/rsschool-cv/cv
+https://github.com/zlat-k/rsschool-cv/blob/rsschool-cv-html/index.html
